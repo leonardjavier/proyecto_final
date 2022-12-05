@@ -11,6 +11,8 @@ import urllib.request, urllib.error, urllib.parse, operator
 ## manipulacion de datos 
 import pandas as pd
 
+## funciones locales
+from sqlite.insertar_datos import Insertar
 
 PATH = "https://raw.githubusercontent.com/prasertcbs/basic-dataset/master/RestaurantRating/Restaurant%20customer%20data.csv"
 
@@ -27,17 +29,14 @@ try:
     # print(df_fitro_columnas)
 
     # Filtrado de valores 
-    df_filtros_fila= df_filtro_columnas[df_filtro_columnas["dress_preference"] != "?"]
-    print(df_filtros_fila.info())
+    df_filtros_fila= df_filtro_columnas[(df_filtro_columnas["dress_preference"] != "?") & (df_filtro_columnas["budget"] != "?") ]
+    # print(df_filtros_fila)
 
-
-
-    
-
-
-
-
+    # Renombre de data frame 
+    df = df_filtros_fila
 
 except Exception as e:
     print(e)
+
+Insertar(df)
 
