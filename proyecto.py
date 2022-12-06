@@ -1,15 +1,11 @@
 #librerias 
 
-## sistema 
-import sys
-import os
-from glob import glob
-
 ## extracion de datos
 import urllib.request, urllib.error, urllib.parse, operator
 
 ## manipulacion de datos 
 import pandas as pd
+
 
 ## funciones locales
 from sqlite.insertar_datos import Insertar
@@ -38,5 +34,8 @@ try:
 except Exception as e:
     print(e)
 
-Insertar(df)
+# Insertar(df)
+
+print(df.info())
+print(df.describe())
 
