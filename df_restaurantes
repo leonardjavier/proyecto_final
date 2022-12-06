@@ -1,0 +1,128 @@
+userID,smoker,dress_preference,drink_level,birth_year,activity,color,budget,height,latitude,longitude
+U1001,false,informal,abstemious,1989,student,black,medium,1.77,22.139997,-100.978803
+U1002,false,informal,abstemious,1990,student,red,low,1.87,22.150087,-100.983325
+U1003,false,formal,social drinker,1989,student,blue,low,1.69,22.119847,-100.946527
+U1004,false,informal,abstemious,1940,professional,green,medium,1.53,18.867,-99.183
+U1005,false,no preference,abstemious,1992,student,black,medium,1.69,22.183477,-100.959891
+U1006,true,no preference,social drinker,1989,student,blue,medium,1.8,22.15,-100.983
+U1007,false,informal,casual drinker,1989,student,purple,low,1.59,22.118464,-100.938256
+U1008,false,formal,social drinker,1989,student,green,low,1.72,22.122989,-100.923811
+U1009,false,formal,abstemious,1991,student,green,medium,1.78,22.159427,-100.990448
+U1010,false,no preference,social drinker,1987,student,green,medium,1.67,22.190889,-100.998669
+U1011,false,no preference,abstemious,1989,student,purple,medium,1.78,23.724972,-99.152856
+U1012,false,formal,casual drinker,1988,student,red,medium,1.84,18.813348,-99.243697
+U1013,false,no preference,abstemious,1982,professional,blue,medium,1.75,22.174624,-100.993873
+U1015,true,informal,social drinker,1989,student,black,medium,1.67,22.12676,-100.905209
+U1016,false,informal,casual drinker,1991,student,green,medium,1.67,22.156247,-100.977402
+U1017,false,formal,casual drinker,1991,professional,orange,medium,1.79,18.952615,-99.201616
+U1018,true,formal,casual drinker,1989,student,blue,low,1.83,22.190949,-100.917902
+U1019,false,no preference,casual drinker,1989,student,purple,medium,1.6,22.153385,-100.975294
+U1020,false,no preference,abstemious,1982,professional,blue,medium,1.68,18.878189,-99.222969
+U1021,false,no preference,social drinker,1984,student,purple,medium,1.62,23.730569,-99.171883
+U1022,false,formal,casual drinker,1990,student,purple,medium,1.54,22.146708,-100.964355
+U1023,false,informal,casual drinker,1988,student,blue,low,1.79,23.752943,-99.166589
+U1025,false,no preference,social drinker,1990,student,red,medium,1.79,22.125603,-100.907844
+U1026,false,formal,abstemious,1989,student,red,medium,1.55,23.733,-99.133
+U1027,true,no preference,social drinker,1989,student,purple,low,1.65,22.16515,-100.987015
+U1028,false,no preference,abstemious,1989,student,blue,medium,1.63,23.752874,-99.169242
+U1029,true,formal,casual drinker,1990,student,white,low,1.6,22.151796,-100.989075
+U1030,false,formal,casual drinker,1991,student,black,medium,1.75,18.844818,-99.182758
+U1031,false,informal,abstemious,1992,unemployed,white,medium,1.6,23.735698,-99.159851
+U1032,false,formal,abstemious,1989,student,blue,medium,1.75,22.169184,-100.986843
+U1033,false,no preference,social drinker,1991,student,yellow,low,1.6,22.15,-100.983
+U1034,false,informal,casual drinker,1990,student,yellow,medium,1.58,22.137178,-101.013169
+U1035,true,no preference,casual drinker,1985,student,red,medium,1.75,18.839671,-99.223897
+U1036,false,informal,social drinker,1991,student,blue,medium,1.7,22.160572,-100.989418
+U1037,false,no preference,social drinker,1990,student,blue,low,1.5,22.15031,-100.900536
+U1038,true,no preference,social drinker,1930,student,blue,low,1.83,22.125786,-100.943705
+U1039,false,no preference,social drinker,1989,student,yellow,medium,1.73,23.738067,-99.139906
+U1040,false,no preference,abstemious,1994,student,blue,medium,1.64,18.895187,-99.18039
+U1041,false,no preference,abstemious,1985,professional,white,medium,1.62,18.935191,-99.23624
+U1042,false,no preference,abstemious,1943,student,yellow,high,1.4,18.925773,-99.219589
+U1043,false,no preference,abstemious,1989,student,white,medium,1.64,23.77103,-99.167082
+U1044,true,informal,social drinker,1969,professional,orange,medium,1.73,18.95298,-99.260789
+U1045,false,elegant,casual drinker,1991,student,orange,high,1.6,22.156724,-100.984268
+U1046,false,no preference,social drinker,1990,student,black,medium,1.84,22.144415,-100.933097
+U1047,false,no preference,abstemious,1992,student,purple,medium,1.63,22.142429,-100.949147
+U1048,true,no preference,casual drinker,1988,student,green,medium,1.7,22.142208,-101.022785
+U1050,false,no preference,social drinker,1989,student,green,medium,1.71,23.758815,-99.171216
+U1051,false,no preference,casual drinker,1979,professional,blue,medium,1.76,18.877719,-99.22299
+U1052,true,no preference,social drinker,1990,student,blue,low,1.8,22.138055,-100.936005
+U1053,false,informal,casual drinker,1990,student,red,low,1.72,22.175833,-100.986671
+U1054,false,formal,social drinker,1992,student,blue,medium,1.7,22.150683,-100.975342
+U1055,false,no preference,abstemious,1952,professional,blue,medium,1.66,22.143289,-100.987683
+U1056,false,informal,social drinker,1930,student,yellow,medium,1.62,22.168997,-100.974376
+U1057,true,formal,casual drinker,1989,student,yellow,medium,1.83,22.196624,-100.91217
+U1058,false,formal,abstemious,1991,student,red,low,1.78,22.205802,-100.986081
+U1059,false,formal,abstemious,1987,student,blue,medium,1.69,18.988278,-99.097023
+U1060,false,formal,casual drinker,1991,student,blue,medium,1.84,23.715238,-99.158864
+U1061,false,no preference,social drinker,1990,professional,blue,medium,1.76,22.140388,-100.937321
+U1062,false,informal,casual drinker,1985,student,yellow,medium,1.68,22.195826,-101.006317
+U1063,false,formal,casual drinker,1988,student,red,medium,1.78,23.745096,-99.164357
+U1064,false,formal,casual drinker,1991,student,blue,medium,1.77,22.139511,-100.957002
+U1065,false,formal,abstemious,1989,student,green,medium,1.72,23.733665,-99.105617
+U1066,false,informal,abstemious,1986,student,green,low,1.45,18.890695,-99.157104
+U1067,false,no preference,abstemious,1987,student,green,medium,1.73,23.752269,-99.168605
+U1068,false,informal,casual drinker,1988,student,blue,low,1.57,23.752269,-99.168605
+U1069,false,no preference,social drinker,1983,professional,black,medium,1.56,19.347641,-99.130229
+U1070,false,informal,casual drinker,1991,student,green,low,1.6,23.753237,-99.166868
+U1071,false,formal,abstemious,1930,student,blue,high,1.73,22.154339,-100.975342
+U1072,false,no preference,casual drinker,1984,student,red,medium,1.54,18.86826,-99.212033
+U1073,false,informal,abstemious,1989,unemployed,yellow,medium,1.79,22.15,-100.983
+U1074,true,no preference,casual drinker,1967,professional,black,medium,1.7,18.917,-99.25
+U1075,false,informal,casual drinker,1991,student,white,medium,1.6,22.167575,-100.960364
+U1076,false,elegant,social drinker,1987,student,blue,medium,1.71,22.156469,-100.98554
+U1077,false,elegant,social drinker,1987,student,blue,medium,1.71,22.156469,-100.98554
+U1078,true,informal,social drinker,1983,professional,blue,medium,1.69,22.172109,-100.963199
+U1080,true,formal,social drinker,1987,student,white,low,1.82,23.743793,-99.163397
+U1081,false,informal,casual drinker,1991,student,green,low,1.54,22.207749,-100.942383
+U1082,true,informal,abstemious,1989,student,black,medium,1.69,23.753061,-99.166095
+U1084,true,formal,casual drinker,1991,student,red,medium,1.6,22.172524,-101.005758
+U1086,false,no preference,social drinker,1991,student,red,medium,1.59,22.157281,-100.98444
+U1087,false,no preference,abstemious,1989,student,black,medium,1.55,23.753336,-99.167984
+U1088,false,informal,social drinker,1991,student,blue,medium,1.6,22.142748,-100.940664
+U1089,true,informal,casual drinker,1990,student,white,low,1.6,22.162562,-100.99313
+U1090,false,no preference,social drinker,1988,student,blue,medium,1.54,22.158473,-100.984268
+U1091,false,no preference,casual drinker,1989,student,red,low,1.7,22.154677,-100.949013
+U1093,true,no preference,casual drinker,1990,student,blue,medium,1.67,18.871654,-99.183251
+U1094,false,informal,abstemious,1991,student,green,medium,1.71,23.73944,-99.160548
+U1095,false,formal,abstemious,1986,student,blue,medium,1.65,22.179865,-101.018547
+U1096,false,formal,abstemious,1990,student,black,medium,1.2,22.1455,-100.939593
+U1097,false,formal,abstemious,1990,student,black,medium,1.64,22.145471,-100.939588
+U1098,false,formal,social drinker,1991,student,green,medium,1.76,22.182571,-100.963232
+U1099,true,informal,social drinker,1989,student,purple,high,2.0,22.184862,-100.970535
+U1100,false,formal,casual drinker,1990,student,black,medium,1.65,18.879729,-99.067106
+U1101,false,no preference,casual drinker,1988,student,white,low,1.69,22.150891,-100.974891
+U1102,false,no preference,social drinker,1989,student,black,low,1.78,22.137131,-100.941151
+U1103,false,formal,abstemious,1989,professional,green,medium,1.9,23.752265,-99.16859
+U1104,true,no preference,social drinker,1991,student,blue,medium,1.71,22.149005,-100.978153
+U1105,false,formal,social drinker,1991,student,green,medium,1.74,22.120019,-100.950991
+U1106,false,informal,casual drinker,1930,professional,blue,medium,1.71,18.927072,-99.173584
+U1108,false,informal,abstemious,1983,student,blue,medium,1.81,22.143524,-100.987562
+U1109,false,formal,abstemious,1989,student,blue,low,1.72,22.303308,-101.05468
+U1110,false,no preference,abstemious,1993,student,red,medium,1.75,18.871678,-99.183263
+U1111,true,formal,casual drinker,1991,student,white,medium,1.69,22.143078,-100.908523
+U1112,true,formal,casual drinker,1991,student,white,medium,1.69,22.143078,-100.908523
+U1113,false,formal,casual drinker,1990,student,blue,medium,1.73,22.137343,-100.913935
+U1114,false,no preference,abstemious,1991,student,blue,medium,1.68,22.177726,-101.014094
+U1115,true,elegant,social drinker,1990,student,green,low,1.76,22.138127,-100.920512
+U1116,false,formal,social drinker,1987,student,blue,medium,1.71,22.156469,-100.98554
+U1117,false,no preference,abstemious,1982,professional,blue,medium,1.6,18.875641,-99.220737
+U1118,true,informal,casual drinker,1987,student,black,medium,1.68,18.940062,-99.228172
+U1119,false,formal,abstemious,1992,student,blue,medium,1.68,18.96479,-99.260017
+U1120,false,informal,abstemious,1930,student,green,low,1.57,22.121857,-100.904279
+U1121,false,no preference,social drinker,1987,working-class,black,medium,1.6,18.871674,-99.183253
+U1123,false,informal,abstemious,1987,student,green,medium,1.75,23.753112,-99.168567
+U1124,false,informal,casual drinker,1991,student,blue,low,1.2,22.137072,-100.918865
+U1125,false,formal,casual drinker,1990,student,white,low,1.67,22.19204,-100.956935
+U1126,false,formal,casual drinker,1990,student,purple,low,1.63,22.15421,-100.942233
+U1127,false,no preference,abstemious,1992,student,black,low,1.76,18.943935,-99.206532
+U1128,false,no preference,casual drinker,1986,student,red,low,1.72,22.187236,-100.994213
+U1129,false,no preference,casual drinker,1989,student,purple,low,1.69,23.728798,-99.134047
+U1131,true,no preference,social drinker,1990,student,black,medium,1.8,22.138245,-100.910948
+U1133,false,no preference,abstemious,1991,student,orange,medium,1.57,18.886698,-99.114979
+U1134,false,no preference,casual drinker,1991,student,black,medium,1.65,22.149654,-100.99861
+U1135,false,informal,casual drinker,1988,student,purple,low,1.54,22.170396,-100.949936
+U1136,true,no preference,social drinker,1990,student,black,low,1.6,22.149607,-100.997235
+U1137,false,formal,social drinker,1989,student,blue,low,1.78,22.144803,-100.944623
+U1138,false,formal,social drinker,1991,student,blue,medium,1.55,22.152884,-100.939663

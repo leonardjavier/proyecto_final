@@ -25,17 +25,17 @@ try:
     # print(df_fitro_columnas)
 
     # Filtrado de valores 
-    df_filtros_fila= df_filtro_columnas[(df_filtro_columnas["dress_preference"] != "?") & (df_filtro_columnas["budget"] != "?") ]
+    df_filtros_fila= df_filtro_columnas[(df_filtro_columnas["dress_preference"] != "?") & (df_filtro_columnas["budget"] != "?") & (df_filtro_columnas["activity"] != "?")]
     # print(df_filtros_fila)
 
     # Renombre de data frame 
     df = df_filtros_fila
 
+    # creacion de una copia del data frame en local
+    df.to_csv("df_restaurantes")
 except Exception as e:
     print(e)
 
-# Insertar(df)
+Insertar(df)
 
-print(df.info())
-print(df.describe())
 
